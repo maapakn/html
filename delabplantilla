@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html class="nojs html css_verticalspacer" lang="en-US">
+ <head>
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="generator" content="2015.2.1.352"/>
+  
+  <script type="text/javascript">
+   // Update the 'nojs'/'js' class on the html node
+document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
+
+// Check that all required assets are uploaded and up-to-date
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
+</script>
+  
+  <link rel="shortcut icon" href="images/favicon.ico?crc=113615080"/>
+  <title>HOME | Katie's Café</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4125969815"/>
+  <link rel="stylesheet" type="text/css" href="css/master_main.css?crc=278555990"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=136825680" id="pagesheet"/>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   var __adobewebfontsappname__ = "muse";
+</script>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/open-sans-condensed:n7:all.js" type="text/javascript">\x3C/script>');
+</script>
+  <!--[if lt IE 9]>
+  <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
+  <![endif]-->
+   </head>
+ <body>
+
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="position_content" id="page_position_content">
+    <div class="clearfix colelem" id="pu240"><!-- group -->
+     <div class="browser_width grpelem" id="u240-bw">
+      <div class="museBGSize" id="u240"><!-- group -->
+       <div class="clearfix" id="u240_align_to_page">
+        <nav class="MenuBar clearfix grpelem" id="menuu246"><!-- horizontal box -->
+         <div class="MenuItemContainer clearfix grpelem" id="u247"><!-- vertical box -->
+          <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u250" href="index.html" data-href="page:U73"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u252-4"><!-- content --><p>HOME</p></div></a>
+         </div>
+        </nav>
+       </div>
+      </div>
+     </div>
+     <!-- m_editable region-id="editable-static-tag-U595-BP_infinity" template="index.html" data-type="image" -->
+     <div class="clip_frame grpelem" id="u595" data-muse-uid="U595" data-muse-type="img_frame"><!-- image -->
+      <img class="block" id="u595_img" src="images/logo-interior%20delab.png?crc=3850777837" alt="" width="300" height="134" data-muse-src="images/logo-interior%20delab.png?crc=3850777837"/>
+     </div>
+     <!-- /m_editable -->
+    </div>
+    <img class="colelem" id="u280-4" alt="BIENVENIDOS" width="960" height="48" src="images/u280-4.png?crc=175878478"/><!-- rasterized frame -->
+    <div class="clearfix colelem" id="pu281-6"><!-- group -->
+     <!-- m_editable region-id="editable-static-tag-U281-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link" -->
+     <div class="subhead-serif clearfix grpelem" id="u281-6" data-muse-uid="U281" data-muse-type="txt_frame"><!-- content -->
+      <h3>Laboratorio Digital</h3>
+      <h3>Centro de Fresado</h3>
+     </div>
+     <!-- /m_editable -->
+     <div class="clearfix grpelem" id="u705"><!-- group -->
+      <div class="clearfix grpelem" id="u706"><!-- group -->
+       <div class="grpelem" id="u707"><!-- simple frame --></div>
+      </div>
+     </div>
+     <div class="clearfix grpelem" id="u817"><!-- group -->
+      <div class="clearfix grpelem" id="u818"><!-- group -->
+       <div class="grpelem" id="u819"><!-- simple frame --></div>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="ppu670"><!-- group -->
+     <div class="clearfix grpelem" id="pu670"><!-- column -->
+      <!-- m_editable region-id="editable-static-tag-U670-BP_infinity" template="index.html" data-type="image" -->
+      <div class="clip_frame colelem" id="u670" data-muse-uid="U670" data-muse-type="img_frame"><!-- image -->
+       <img class="block" id="u670_img" src="images/4.jpg?crc=136709506" alt="" width="258" height="258" data-muse-src="images/4.jpg?crc=136709506"/>
+      </div>
+      <!-- /m_editable -->
+      <img class="colelem" id="u881-6" alt="quinto paso Ofertas, casos y toda en informacion en nuestras redes sociales" width="258" height="127" src="images/u881-6.png?crc=4209078994"/><!-- rasterized frame -->
+      <!-- m_editable region-id="editable-static-tag-U871-BP_infinity" template="index.html" data-type="image" -->
+      <div class="clip_frame colelem" id="u871" data-muse-uid="U871" data-muse-type="img_frame"><!-- image -->
+       <img class="block" id="u871_img" src="images/5.jpg?crc=4184283805" alt="" width="258" height="258" data-muse-src="images/5.jpg?crc=4184283805"/>
+      </div>
+      <!-- /m_editable -->
+     </div>
+     <!-- m_editable region-id="editable-static-tag-U640-BP_infinity" template="index.html" data-type="image" -->
+     <div class="clip_frame grpelem" id="u640" data-muse-uid="U640" data-muse-type="img_frame"><!-- image -->
+      <img class="block" id="u640_img" src="images/1.jpg?crc=280747573" alt="" width="258" height="258" data-muse-src="images/1.jpg?crc=280747573"/>
+     </div>
+     <!-- /m_editable -->
+     <!-- m_editable region-id="editable-static-tag-U650-BP_infinity" template="index.html" data-type="image" -->
+     <div class="clip_frame grpelem" id="u650" data-muse-uid="U650" data-muse-type="img_frame"><!-- image -->
+      <img class="block" id="u650_img" src="images/2.jpg?crc=3864568968" alt="" width="258" height="258" data-muse-src="images/2.jpg?crc=3864568968"/>
+     </div>
+     <!-- /m_editable -->
+     <!-- m_editable region-id="editable-static-tag-U660-BP_infinity" template="index.html" data-type="image" -->
+     <div class="clip_frame grpelem" id="u660" data-muse-uid="U660" data-muse-type="img_frame"><!-- image -->
+      <img class="block" id="u660_img" src="images/3.jpg?crc=210554236" alt="" width="258" height="258" data-muse-src="images/3.jpg?crc=210554236"/>
+     </div>
+     <!-- /m_editable -->
+     <img class="grpelem" id="u727-6" alt="primer paso Ingresa tus datos , completa los items indicados ." width="340" height="127" src="images/u727-6.png?crc=4012219094"/><!-- rasterized frame -->
+     <img class="grpelem" id="u865-6" alt="tercer paso Puedes ver tus ordenes online. y saber el estado de tu pedido." width="258" height="127" src="images/u865-6.png?crc=4271624515"/><!-- rasterized frame -->
+    </div>
+    <div class="clearfix colelem" id="pu862-6"><!-- group -->
+     <img class="grpelem" id="u862-6" alt="segundo paso Adjunta tus documentos, examenes, imagenes y documentos necesarios para nuestro laboratorio." width="341" height="127" src="images/u862-6.png?crc=4172960049"/><!-- rasterized frame -->
+     <!-- m_editable region-id="editable-static-tag-U810-BP_infinity" template="index.html" data-type="image" -->
+     <div class="clip_frame grpelem" id="u810" data-muse-uid="U810" data-muse-type="img_frame"><!-- image -->
+      <img class="block" id="u810_img" src="images/separador.png?crc=306268823" alt="" width="182" height="60" data-muse-src="images/separador.png?crc=306268823"/>
+     </div>
+     <!-- /m_editable -->
+     <img class="grpelem" id="u884-6" alt="cuarto paso Recibiras en tus direcciones el pedido y puedes calificar el servicio en nuestra web." width="258" height="144" src="images/u884-6.png?crc=4265365279"/><!-- rasterized frame -->
+    </div>
+    <div class="clearfix colelem" id="pu717"><!-- group -->
+     <!-- m_editable region-id="editable-static-tag-U717-BP_infinity" template="index.html" data-type="image" -->
+     <div class="clip_frame grpelem" id="u717" data-muse-uid="U717" data-muse-type="img_frame"><!-- image -->
+      <img class="block" id="u717_img" src="images/1%20ab.jpg?crc=217291273" alt="" width="292" height="292" data-muse-src="images/1%20ab.jpg?crc=217291273"/>
+     </div>
+     <!-- /m_editable -->
+     <!-- m_editable region-id="editable-static-tag-U748-BP_infinity" template="index.html" data-type="image" -->
+     <div class="clip_frame grpelem" id="u748" data-muse-uid="U748" data-muse-type="img_frame"><!-- image -->
+      <img class="block" id="u748_img" src="images/2ba.jpg?crc=4207283517" alt="" width="292" height="292" data-muse-src="images/2ba.jpg?crc=4207283517"/>
+     </div>
+     <!-- /m_editable -->
+    </div>
+    <div class="clearfix colelem" id="pu730"><!-- group -->
+     <div class="museBGSize grpelem" id="u730"><!-- simple frame --></div>
+     <div class="museBGSize grpelem" id="u761"><!-- simple frame --></div>
+    </div>
+    <div class="clearfix colelem" id="pu852-4"><!-- group -->
+     <!-- m_editable region-id="editable-static-tag-U852-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link" -->
+     <div class="clearfix grpelem" id="u852-4" data-muse-uid="U852" data-muse-type="txt_frame"><!-- content -->
+      <h2 class="subhead" id="u852-2">Nos especializamos en tecnología CAD CAM y el desarrollo de restauraciones en prótesis fija, sea esta sobre dientes o implantes.</h2>
+     </div>
+     <!-- /m_editable -->
+     <!-- m_editable region-id="editable-static-tag-U859-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link" -->
+     <div class="clearfix grpelem" id="u859-4" data-muse-uid="U859" data-muse-type="txt_frame"><!-- content -->
+      <h2 class="subhead" id="u859-2">Presentamos diferentes casos clinicos&nbsp; para nuestros usuarios</h2>
+     </div>
+     <!-- /m_editable -->
+    </div>
+    <!-- m_editable region-id="editable-static-tag-U782-BP_infinity" template="index.html" data-type="image" -->
+    <div class="clip_frame colelem" id="u782" data-muse-uid="U782" data-muse-type="img_frame"><!-- image -->
+     <img class="block" id="u782_img" src="images/separador.png?crc=306268823" alt="" width="182" height="60" data-muse-src="images/separador.png?crc=306268823"/>
+    </div>
+    <!-- /m_editable -->
+    <div class="browser_width colelem" id="u792-bw">
+     <div class="museBGSize" id="u792"><!-- column -->
+      <div class="clearfix" id="u792_align_to_page">
+       <div class="position_content" id="u792_position_content">
+        <div class="clearfix colelem" id="pu826-4"><!-- group -->
+         <!-- m_editable region-id="editable-static-tag-U826-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link" -->
+         <div class="heading clearfix grpelem" id="u826-4" data-muse-uid="U826" data-muse-type="txt_frame"><!-- content -->
+          <h1>CONTACTO</h1>
+         </div>
+         <!-- /m_editable -->
+         <div class="clearfix grpelem" id="ppu831-4"><!-- column -->
+          <div class="clearfix colelem" id="pu831-4"><!-- group -->
+           <!-- m_editable region-id="editable-static-tag-U831-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link" -->
+           <div class="heading clearfix grpelem" id="u831-4" data-muse-uid="U831" data-muse-type="txt_frame"><!-- content -->
+            <h1>NOMBRE:</h1>
+           </div>
+           <!-- /m_editable -->
+           <div class="grpelem" id="u846"><!-- simple frame --></div>
+          </div>
+          <!-- m_editable region-id="editable-static-tag-U834-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link" -->
+          <div class="heading clearfix colelem" id="u834-4" data-muse-uid="U834" data-muse-type="txt_frame"><!-- content -->
+           <h1>CORREO:</h1>
+          </div>
+          <!-- /m_editable -->
+         </div>
+        </div>
+        <div class="clearfix colelem" id="pu923"><!-- group -->
+         <div class="museBGSize grpelem" id="u923"><!-- simple frame --></div>
+         <div class="grpelem" id="u849"><!-- simple frame --></div>
+        </div>
+        <!-- m_editable region-id="editable-static-tag-U837-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link" -->
+        <div class="heading clearfix colelem" id="u837-4" data-muse-uid="U837" data-muse-type="txt_frame"><!-- content -->
+         <h1>COMENTARIOS:</h1>
+        </div>
+        <!-- /m_editable -->
+        <div class="clearfix colelem" id="pu933"><!-- group -->
+         <div class="museBGSize grpelem" id="u933"><!-- simple frame --></div>
+         <div class="museBGSize grpelem" id="u943"><!-- simple frame --></div>
+         <div class="grpelem" id="u840"><!-- simple frame --></div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="verticalspacer" data-offset-top="2335" data-content-above-spacer="2335" data-content-below-spacer="101"></div>
+    <div class="browser_width colelem" id="u124-bw">
+     <div id="u124"><!-- group -->
+      <div class="clearfix" id="u124_align_to_page">
+       <div class="grpelem" id="u142"><!-- simple frame --></div>
+       <div class="grpelem" id="u144"><!-- simple frame --></div>
+       <div class="museBGSize grpelem" id="u629"><!-- simple frame --></div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="images/boton%20servicios-rollover.png?crc=527120168" alt=""/>
+   <img class="preload" src="images/recomendaciones%20boton-rolover.png?crc=50297418" alt=""/>
+  </div>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   window.Muse.assets.check=function(d){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},c=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),
+16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),i=0;i<f.length;i++)if("text/css"==f[i].type){var h=(f[i].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!h||!h[1]||!h[2])break;b[h[1]]=h[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(i=0;i<Muse.assets.required.length;){var h=Muse.assets.required[i],l=h.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
+l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(i,1),"undefined"!=typeof b[h]&&(k!=b[h]>>>24||l!=(b[h]&16777215))&&Muse.assets.outOfDate.push(h)):i++;f.className="version";break;case "js":k.match(/^jquery-[\d\.]+/gi)&&d&&d().jquery=="1.8.3"?Muse.assets.required.splice(i,1):i++;break;default:throw Error("Unsupported file type: "+
+l);}}f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Puede que determinados archivos falten en el servidor o sean incorrectos. Limpie la cache del navegador e inténtelo de nuevo. Si el problema persiste, póngase en contacto con el administrador del sitio web.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.musemenu","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+window.Muse.assets.check($);/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+}catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
+
+</script>
+  <!-- RequireJS script -->
+  <script src="scripts/require.js?crc=4108833657" type="text/javascript" async data-main="scripts/museconfig.js?crc=169177150" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+   </body>
+</html>
